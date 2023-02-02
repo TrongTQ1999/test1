@@ -35,5 +35,7 @@ int main(int argc, char *argv[])
 	printf("developer1 modified3");
 	printf("developer1 modified4");
 	printf("developer1 modified5");
+
+	printf("commit release1");
 	return 0;
 }
