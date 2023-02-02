@@ -31,5 +31,6 @@ int main(int argc, char *argv[])
 	mosquitto_lib_cleanup();
 
 	printf("developer2 modified1");
+	printf("developer2 modified2");
 	return 0;
 }
