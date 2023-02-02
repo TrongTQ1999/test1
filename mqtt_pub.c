@@ -29,5 +29,7 @@ int main(int argc, char *argv[])
 	mosquitto_destroy(mosq);
 
 	mosquitto_lib_cleanup();
+
+	printf("developer2 modified1");
 	return 0;
 }
